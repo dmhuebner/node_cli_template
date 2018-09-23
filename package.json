@@ -1,0 +1,30 @@
+{
+  "name": "node_cli_template",
+  "version": "1.0.0",
+  "description": "Node CLI template project",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "develop": "node app.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmhuebner/node_cli_template.git"
+  },
+  "keywords": [
+    "cli",
+    "template",
+    "node",
+    "boilerplate"
+  ],
+  "author": "David Huebner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmhuebner/node_cli_template/issues"
+  },
+  "homepage": "https://github.com/dmhuebner/node_cli_template#readme"
+}
